@@ -13,8 +13,8 @@ body {
 .calculator {
     border: 2px solid #333;
     border-radius: 10px;
-    padding: 20px;
-    background-color: #fff;
+    padding: 65px;
+    background-color: #78ecbc;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
